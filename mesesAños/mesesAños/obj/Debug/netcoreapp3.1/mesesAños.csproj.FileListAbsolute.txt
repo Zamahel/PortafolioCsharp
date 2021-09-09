@@ -1,0 +1,14 @@
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\bin\Debug\netcoreapp3.1\mesesAños.exe
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\bin\Debug\netcoreapp3.1\mesesAños.deps.json
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\bin\Debug\netcoreapp3.1\mesesAños.runtimeconfig.json
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\bin\Debug\netcoreapp3.1\mesesAños.runtimeconfig.dev.json
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\bin\Debug\netcoreapp3.1\mesesAños.dll
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\bin\Debug\netcoreapp3.1\mesesAños.pdb
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\obj\Debug\netcoreapp3.1\mesesAños.csproj.AssemblyReference.cache
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\obj\Debug\netcoreapp3.1\mesesAños.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\obj\Debug\netcoreapp3.1\mesesAños.AssemblyInfoInputs.cache
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\obj\Debug\netcoreapp3.1\mesesAños.AssemblyInfo.cs
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\obj\Debug\netcoreapp3.1\mesesAños.csproj.CoreCompileInputs.cache
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\obj\Debug\netcoreapp3.1\mesesAños.dll
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\obj\Debug\netcoreapp3.1\mesesAños.pdb
+F:\Proyectos\PortafolioCsharp\mesesAños\mesesAños\obj\Debug\netcoreapp3.1\mesesAños.genruntimeconfig.cache

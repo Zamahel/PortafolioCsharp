@@ -1,0 +1,14 @@
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\bin\Debug\netcoreapp3.1\numeroParImpar.exe
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\bin\Debug\netcoreapp3.1\numeroParImpar.deps.json
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\bin\Debug\netcoreapp3.1\numeroParImpar.runtimeconfig.json
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\bin\Debug\netcoreapp3.1\numeroParImpar.runtimeconfig.dev.json
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\bin\Debug\netcoreapp3.1\numeroParImpar.dll
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\bin\Debug\netcoreapp3.1\numeroParImpar.pdb
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\obj\Debug\netcoreapp3.1\numeroParImpar.csproj.AssemblyReference.cache
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\obj\Debug\netcoreapp3.1\numeroParImpar.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\obj\Debug\netcoreapp3.1\numeroParImpar.AssemblyInfoInputs.cache
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\obj\Debug\netcoreapp3.1\numeroParImpar.AssemblyInfo.cs
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\obj\Debug\netcoreapp3.1\numeroParImpar.csproj.CoreCompileInputs.cache
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\obj\Debug\netcoreapp3.1\numeroParImpar.dll
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\obj\Debug\netcoreapp3.1\numeroParImpar.pdb
+F:\Proyectos\PortafolioCsharp\numeroParImpar\numeroParImpar\obj\Debug\netcoreapp3.1\numeroParImpar.genruntimeconfig.cache

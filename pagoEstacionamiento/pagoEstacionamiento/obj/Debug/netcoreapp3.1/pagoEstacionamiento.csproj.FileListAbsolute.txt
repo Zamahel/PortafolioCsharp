@@ -1,0 +1,13 @@
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\bin\Debug\netcoreapp3.1\pagoEstacionamiento.exe
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\bin\Debug\netcoreapp3.1\pagoEstacionamiento.deps.json
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\bin\Debug\netcoreapp3.1\pagoEstacionamiento.runtimeconfig.json
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\bin\Debug\netcoreapp3.1\pagoEstacionamiento.runtimeconfig.dev.json
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\bin\Debug\netcoreapp3.1\pagoEstacionamiento.dll
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\bin\Debug\netcoreapp3.1\pagoEstacionamiento.pdb
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\obj\Debug\netcoreapp3.1\pagoEstacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\obj\Debug\netcoreapp3.1\pagoEstacionamiento.AssemblyInfoInputs.cache
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\obj\Debug\netcoreapp3.1\pagoEstacionamiento.AssemblyInfo.cs
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\obj\Debug\netcoreapp3.1\pagoEstacionamiento.csproj.CoreCompileInputs.cache
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\obj\Debug\netcoreapp3.1\pagoEstacionamiento.dll
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\obj\Debug\netcoreapp3.1\pagoEstacionamiento.pdb
+F:\Proyectos\PortafolioCsharp\pagoEstacionamiento\pagoEstacionamiento\obj\Debug\netcoreapp3.1\pagoEstacionamiento.genruntimeconfig.cache
