@@ -1,0 +1,15 @@
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\bin\Debug\net5.0\convertirSinCadenaString.exe
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\bin\Debug\net5.0\convertirSinCadenaString.deps.json
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\bin\Debug\net5.0\convertirSinCadenaString.runtimeconfig.json
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\bin\Debug\net5.0\convertirSinCadenaString.runtimeconfig.dev.json
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\bin\Debug\net5.0\convertirSinCadenaString.dll
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\bin\Debug\net5.0\ref\convertirSinCadenaString.dll
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\bin\Debug\net5.0\convertirSinCadenaString.pdb
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\obj\Debug\net5.0\convertirSinCadenaString.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\obj\Debug\net5.0\convertirSinCadenaString.AssemblyInfoInputs.cache
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\obj\Debug\net5.0\convertirSinCadenaString.AssemblyInfo.cs
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\obj\Debug\net5.0\convertirSinCadenaString.csproj.CoreCompileInputs.cache
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\obj\Debug\net5.0\convertirSinCadenaString.dll
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\obj\Debug\net5.0\ref\convertirSinCadenaString.dll
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\obj\Debug\net5.0\convertirSinCadenaString.pdb
+Y:\Proyectos\convertirSinCadenaString\convertirSinCadenaString\obj\Debug\net5.0\convertirSinCadenaString.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\Proyectos\seleccionIf\seleccionIf\bin\Debug\netcoreapp3.1\seleccionIf.exe
+F:\Proyectos\seleccionIf\seleccionIf\bin\Debug\netcoreapp3.1\seleccionIf.deps.json
+F:\Proyectos\seleccionIf\seleccionIf\bin\Debug\netcoreapp3.1\seleccionIf.runtimeconfig.json
+F:\Proyectos\seleccionIf\seleccionIf\bin\Debug\netcoreapp3.1\seleccionIf.runtimeconfig.dev.json
+F:\Proyectos\seleccionIf\seleccionIf\bin\Debug\netcoreapp3.1\seleccionIf.dll
+F:\Proyectos\seleccionIf\seleccionIf\bin\Debug\netcoreapp3.1\seleccionIf.pdb
+F:\Proyectos\seleccionIf\seleccionIf\obj\Debug\netcoreapp3.1\seleccionIf.csproj.AssemblyReference.cache
+F:\Proyectos\seleccionIf\seleccionIf\obj\Debug\netcoreapp3.1\seleccionIf.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\seleccionIf\seleccionIf\obj\Debug\netcoreapp3.1\seleccionIf.AssemblyInfoInputs.cache
+F:\Proyectos\seleccionIf\seleccionIf\obj\Debug\netcoreapp3.1\seleccionIf.AssemblyInfo.cs
+F:\Proyectos\seleccionIf\seleccionIf\obj\Debug\netcoreapp3.1\seleccionIf.csproj.CoreCompileInputs.cache
+F:\Proyectos\seleccionIf\seleccionIf\obj\Debug\netcoreapp3.1\seleccionIf.dll
+F:\Proyectos\seleccionIf\seleccionIf\obj\Debug\netcoreapp3.1\seleccionIf.pdb
+F:\Proyectos\seleccionIf\seleccionIf\obj\Debug\netcoreapp3.1\seleccionIf.genruntimeconfig.cache

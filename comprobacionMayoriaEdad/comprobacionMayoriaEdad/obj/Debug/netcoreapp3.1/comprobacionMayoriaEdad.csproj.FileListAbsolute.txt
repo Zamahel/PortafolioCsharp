@@ -1,0 +1,13 @@
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\bin\Debug\netcoreapp3.1\comprobacionMayoriaEdad.exe
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\bin\Debug\netcoreapp3.1\comprobacionMayoriaEdad.deps.json
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\bin\Debug\netcoreapp3.1\comprobacionMayoriaEdad.runtimeconfig.json
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\bin\Debug\netcoreapp3.1\comprobacionMayoriaEdad.runtimeconfig.dev.json
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\bin\Debug\netcoreapp3.1\comprobacionMayoriaEdad.dll
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\bin\Debug\netcoreapp3.1\comprobacionMayoriaEdad.pdb
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\obj\Debug\netcoreapp3.1\comprobacionMayoriaEdad.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\obj\Debug\netcoreapp3.1\comprobacionMayoriaEdad.AssemblyInfoInputs.cache
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\obj\Debug\netcoreapp3.1\comprobacionMayoriaEdad.AssemblyInfo.cs
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\obj\Debug\netcoreapp3.1\comprobacionMayoriaEdad.csproj.CoreCompileInputs.cache
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\obj\Debug\netcoreapp3.1\comprobacionMayoriaEdad.dll
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\obj\Debug\netcoreapp3.1\comprobacionMayoriaEdad.pdb
+F:\Proyectos\comprobacionMayoriaEdad\comprobacionMayoriaEdad\obj\Debug\netcoreapp3.1\comprobacionMayoriaEdad.genruntimeconfig.cache

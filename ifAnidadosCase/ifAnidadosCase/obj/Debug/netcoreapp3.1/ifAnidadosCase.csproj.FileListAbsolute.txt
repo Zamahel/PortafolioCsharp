@@ -1,0 +1,13 @@
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\bin\Debug\netcoreapp3.1\ifAnidadosCase.exe
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\bin\Debug\netcoreapp3.1\ifAnidadosCase.deps.json
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\bin\Debug\netcoreapp3.1\ifAnidadosCase.runtimeconfig.json
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\bin\Debug\netcoreapp3.1\ifAnidadosCase.runtimeconfig.dev.json
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\bin\Debug\netcoreapp3.1\ifAnidadosCase.dll
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\bin\Debug\netcoreapp3.1\ifAnidadosCase.pdb
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\obj\Debug\netcoreapp3.1\ifAnidadosCase.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\obj\Debug\netcoreapp3.1\ifAnidadosCase.AssemblyInfoInputs.cache
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\obj\Debug\netcoreapp3.1\ifAnidadosCase.AssemblyInfo.cs
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\obj\Debug\netcoreapp3.1\ifAnidadosCase.csproj.CoreCompileInputs.cache
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\obj\Debug\netcoreapp3.1\ifAnidadosCase.dll
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\obj\Debug\netcoreapp3.1\ifAnidadosCase.pdb
+F:\Proyectos\ifAnidadosCase\ifAnidadosCase\obj\Debug\netcoreapp3.1\ifAnidadosCase.genruntimeconfig.cache

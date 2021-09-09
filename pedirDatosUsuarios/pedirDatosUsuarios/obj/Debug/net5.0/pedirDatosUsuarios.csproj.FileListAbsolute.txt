@@ -1,0 +1,16 @@
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\bin\Debug\net5.0\pedirDatosUsuarios.exe
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\bin\Debug\net5.0\pedirDatosUsuarios.deps.json
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\bin\Debug\net5.0\pedirDatosUsuarios.runtimeconfig.json
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\bin\Debug\net5.0\pedirDatosUsuarios.runtimeconfig.dev.json
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\bin\Debug\net5.0\pedirDatosUsuarios.dll
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\bin\Debug\net5.0\ref\pedirDatosUsuarios.dll
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\bin\Debug\net5.0\pedirDatosUsuarios.pdb
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\obj\Debug\net5.0\pedirDatosUsuarios.csproj.AssemblyReference.cache
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\obj\Debug\net5.0\pedirDatosUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\obj\Debug\net5.0\pedirDatosUsuarios.AssemblyInfoInputs.cache
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\obj\Debug\net5.0\pedirDatosUsuarios.AssemblyInfo.cs
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\obj\Debug\net5.0\pedirDatosUsuarios.csproj.CoreCompileInputs.cache
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\obj\Debug\net5.0\pedirDatosUsuarios.dll
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\obj\Debug\net5.0\ref\pedirDatosUsuarios.dll
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\obj\Debug\net5.0\pedirDatosUsuarios.pdb
+Y:\Proyectos\pedirDatosUsuarios\pedirDatosUsuarios\obj\Debug\net5.0\pedirDatosUsuarios.genruntimeconfig.cache

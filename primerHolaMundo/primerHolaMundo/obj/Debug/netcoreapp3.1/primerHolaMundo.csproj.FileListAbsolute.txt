@@ -1,0 +1,14 @@
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\bin\Debug\netcoreapp3.1\primerHolaMundo.exe
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\bin\Debug\netcoreapp3.1\primerHolaMundo.deps.json
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\bin\Debug\netcoreapp3.1\primerHolaMundo.runtimeconfig.json
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\bin\Debug\netcoreapp3.1\primerHolaMundo.runtimeconfig.dev.json
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\bin\Debug\netcoreapp3.1\primerHolaMundo.dll
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\bin\Debug\netcoreapp3.1\primerHolaMundo.pdb
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\obj\Debug\netcoreapp3.1\primerHolaMundo.csproj.AssemblyReference.cache
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\obj\Debug\netcoreapp3.1\primerHolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\obj\Debug\netcoreapp3.1\primerHolaMundo.AssemblyInfoInputs.cache
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\obj\Debug\netcoreapp3.1\primerHolaMundo.AssemblyInfo.cs
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\obj\Debug\netcoreapp3.1\primerHolaMundo.csproj.CoreCompileInputs.cache
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\obj\Debug\netcoreapp3.1\primerHolaMundo.dll
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\obj\Debug\netcoreapp3.1\primerHolaMundo.pdb
+Y:\Proyectos\primerHolaMundo\primerHolaMundo\obj\Debug\netcoreapp3.1\primerHolaMundo.genruntimeconfig.cache

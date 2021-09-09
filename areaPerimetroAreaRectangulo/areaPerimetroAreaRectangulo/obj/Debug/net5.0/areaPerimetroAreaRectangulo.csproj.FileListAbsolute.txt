@@ -1,0 +1,16 @@
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\bin\Debug\net5.0\areaPerimetroAreaRectangulo.exe
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\bin\Debug\net5.0\areaPerimetroAreaRectangulo.deps.json
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\bin\Debug\net5.0\areaPerimetroAreaRectangulo.runtimeconfig.json
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\bin\Debug\net5.0\areaPerimetroAreaRectangulo.runtimeconfig.dev.json
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\bin\Debug\net5.0\areaPerimetroAreaRectangulo.dll
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\bin\Debug\net5.0\ref\areaPerimetroAreaRectangulo.dll
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\bin\Debug\net5.0\areaPerimetroAreaRectangulo.pdb
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\obj\Debug\net5.0\areaPerimetroAreaRectangulo.csproj.AssemblyReference.cache
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\obj\Debug\net5.0\areaPerimetroAreaRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\obj\Debug\net5.0\areaPerimetroAreaRectangulo.AssemblyInfoInputs.cache
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\obj\Debug\net5.0\areaPerimetroAreaRectangulo.AssemblyInfo.cs
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\obj\Debug\net5.0\areaPerimetroAreaRectangulo.csproj.CoreCompileInputs.cache
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\obj\Debug\net5.0\areaPerimetroAreaRectangulo.dll
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\obj\Debug\net5.0\ref\areaPerimetroAreaRectangulo.dll
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\obj\Debug\net5.0\areaPerimetroAreaRectangulo.pdb
+Y:\Proyectos\areaPerimetroAreaRectangulo\areaPerimetroAreaRectangulo\obj\Debug\net5.0\areaPerimetroAreaRectangulo.genruntimeconfig.cache

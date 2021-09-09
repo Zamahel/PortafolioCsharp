@@ -1,0 +1,14 @@
+F:\Proyectos\caseSwitch\caseSwitch\bin\Debug\netcoreapp3.1\caseSwitch.exe
+F:\Proyectos\caseSwitch\caseSwitch\bin\Debug\netcoreapp3.1\caseSwitch.deps.json
+F:\Proyectos\caseSwitch\caseSwitch\bin\Debug\netcoreapp3.1\caseSwitch.runtimeconfig.json
+F:\Proyectos\caseSwitch\caseSwitch\bin\Debug\netcoreapp3.1\caseSwitch.runtimeconfig.dev.json
+F:\Proyectos\caseSwitch\caseSwitch\bin\Debug\netcoreapp3.1\caseSwitch.dll
+F:\Proyectos\caseSwitch\caseSwitch\bin\Debug\netcoreapp3.1\caseSwitch.pdb
+F:\Proyectos\caseSwitch\caseSwitch\obj\Debug\netcoreapp3.1\caseSwitch.csproj.AssemblyReference.cache
+F:\Proyectos\caseSwitch\caseSwitch\obj\Debug\netcoreapp3.1\caseSwitch.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\caseSwitch\caseSwitch\obj\Debug\netcoreapp3.1\caseSwitch.AssemblyInfoInputs.cache
+F:\Proyectos\caseSwitch\caseSwitch\obj\Debug\netcoreapp3.1\caseSwitch.AssemblyInfo.cs
+F:\Proyectos\caseSwitch\caseSwitch\obj\Debug\netcoreapp3.1\caseSwitch.csproj.CoreCompileInputs.cache
+F:\Proyectos\caseSwitch\caseSwitch\obj\Debug\netcoreapp3.1\caseSwitch.dll
+F:\Proyectos\caseSwitch\caseSwitch\obj\Debug\netcoreapp3.1\caseSwitch.pdb
+F:\Proyectos\caseSwitch\caseSwitch\obj\Debug\netcoreapp3.1\caseSwitch.genruntimeconfig.cache

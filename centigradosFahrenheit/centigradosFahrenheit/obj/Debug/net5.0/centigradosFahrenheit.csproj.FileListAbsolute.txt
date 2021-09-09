@@ -1,0 +1,16 @@
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\bin\Debug\net5.0\centigradosFahrenheit.exe
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\bin\Debug\net5.0\centigradosFahrenheit.deps.json
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\bin\Debug\net5.0\centigradosFahrenheit.runtimeconfig.json
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\bin\Debug\net5.0\centigradosFahrenheit.runtimeconfig.dev.json
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\bin\Debug\net5.0\centigradosFahrenheit.dll
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\bin\Debug\net5.0\ref\centigradosFahrenheit.dll
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\bin\Debug\net5.0\centigradosFahrenheit.pdb
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\obj\Debug\net5.0\centigradosFahrenheit.csproj.AssemblyReference.cache
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\obj\Debug\net5.0\centigradosFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\obj\Debug\net5.0\centigradosFahrenheit.AssemblyInfoInputs.cache
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\obj\Debug\net5.0\centigradosFahrenheit.AssemblyInfo.cs
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\obj\Debug\net5.0\centigradosFahrenheit.csproj.CoreCompileInputs.cache
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\obj\Debug\net5.0\centigradosFahrenheit.dll
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\obj\Debug\net5.0\ref\centigradosFahrenheit.dll
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\obj\Debug\net5.0\centigradosFahrenheit.pdb
+Y:\Proyectos\centigradosFahrenheit\centigradosFahrenheit\obj\Debug\net5.0\centigradosFahrenheit.genruntimeconfig.cache

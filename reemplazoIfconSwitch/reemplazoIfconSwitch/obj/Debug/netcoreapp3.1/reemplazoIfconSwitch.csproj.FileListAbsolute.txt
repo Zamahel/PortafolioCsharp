@@ -1,0 +1,14 @@
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\bin\Debug\netcoreapp3.1\reemplazoIfconSwitch.exe
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\bin\Debug\netcoreapp3.1\reemplazoIfconSwitch.deps.json
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\bin\Debug\netcoreapp3.1\reemplazoIfconSwitch.runtimeconfig.json
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\bin\Debug\netcoreapp3.1\reemplazoIfconSwitch.runtimeconfig.dev.json
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\bin\Debug\netcoreapp3.1\reemplazoIfconSwitch.dll
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\bin\Debug\netcoreapp3.1\reemplazoIfconSwitch.pdb
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\obj\Debug\netcoreapp3.1\reemplazoIfconSwitch.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\obj\Debug\netcoreapp3.1\reemplazoIfconSwitch.AssemblyInfoInputs.cache
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\obj\Debug\netcoreapp3.1\reemplazoIfconSwitch.AssemblyInfo.cs
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\obj\Debug\netcoreapp3.1\reemplazoIfconSwitch.csproj.CoreCompileInputs.cache
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\obj\Debug\netcoreapp3.1\reemplazoIfconSwitch.dll
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\obj\Debug\netcoreapp3.1\reemplazoIfconSwitch.pdb
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\obj\Debug\netcoreapp3.1\reemplazoIfconSwitch.genruntimeconfig.cache
+F:\Proyectos\reemplazoIfconSwitch\reemplazoIfconSwitch\obj\Debug\netcoreapp3.1\reemplazoIfconSwitch.csproj.AssemblyReference.cache

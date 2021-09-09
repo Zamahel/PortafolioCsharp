@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ejercicioBooleanos/1.0.0": {
+        "runtime": {
+          "ejercicioBooleanos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejercicioBooleanos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

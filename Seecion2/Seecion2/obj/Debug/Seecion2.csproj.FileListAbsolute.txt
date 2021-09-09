@@ -1,0 +1,6 @@
+Y:\Proyectos\Seecion2\Seecion2\bin\Debug\Seecion2.exe.config
+Y:\Proyectos\Seecion2\Seecion2\bin\Debug\Seecion2.exe
+Y:\Proyectos\Seecion2\Seecion2\bin\Debug\Seecion2.pdb
+Y:\Proyectos\Seecion2\Seecion2\obj\Debug\Seecion2.csproj.CoreCompileInputs.cache
+Y:\Proyectos\Seecion2\Seecion2\obj\Debug\Seecion2.exe
+Y:\Proyectos\Seecion2\Seecion2\obj\Debug\Seecion2.pdb

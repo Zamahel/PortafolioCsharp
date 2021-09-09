@@ -1,0 +1,14 @@
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\bin\Debug\netcoreapp3.1\ejercicioBooleanos.exe
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\bin\Debug\netcoreapp3.1\ejercicioBooleanos.deps.json
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\bin\Debug\netcoreapp3.1\ejercicioBooleanos.runtimeconfig.json
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\bin\Debug\netcoreapp3.1\ejercicioBooleanos.runtimeconfig.dev.json
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\bin\Debug\netcoreapp3.1\ejercicioBooleanos.dll
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\bin\Debug\netcoreapp3.1\ejercicioBooleanos.pdb
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\obj\Debug\netcoreapp3.1\ejercicioBooleanos.csproj.AssemblyReference.cache
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\obj\Debug\netcoreapp3.1\ejercicioBooleanos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\obj\Debug\netcoreapp3.1\ejercicioBooleanos.AssemblyInfoInputs.cache
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\obj\Debug\netcoreapp3.1\ejercicioBooleanos.AssemblyInfo.cs
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\obj\Debug\netcoreapp3.1\ejercicioBooleanos.csproj.CoreCompileInputs.cache
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\obj\Debug\netcoreapp3.1\ejercicioBooleanos.dll
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\obj\Debug\netcoreapp3.1\ejercicioBooleanos.pdb
+F:\Proyectos\ejercicioBooleanos\ejercicioBooleanos\obj\Debug\netcoreapp3.1\ejercicioBooleanos.genruntimeconfig.cache

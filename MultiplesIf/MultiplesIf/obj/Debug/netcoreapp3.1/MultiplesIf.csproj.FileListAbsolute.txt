@@ -1,0 +1,13 @@
+F:\Proyectos\MultiplesIf\MultiplesIf\bin\Debug\netcoreapp3.1\MultiplesIf.exe
+F:\Proyectos\MultiplesIf\MultiplesIf\bin\Debug\netcoreapp3.1\MultiplesIf.deps.json
+F:\Proyectos\MultiplesIf\MultiplesIf\bin\Debug\netcoreapp3.1\MultiplesIf.runtimeconfig.json
+F:\Proyectos\MultiplesIf\MultiplesIf\bin\Debug\netcoreapp3.1\MultiplesIf.runtimeconfig.dev.json
+F:\Proyectos\MultiplesIf\MultiplesIf\bin\Debug\netcoreapp3.1\MultiplesIf.dll
+F:\Proyectos\MultiplesIf\MultiplesIf\bin\Debug\netcoreapp3.1\MultiplesIf.pdb
+F:\Proyectos\MultiplesIf\MultiplesIf\obj\Debug\netcoreapp3.1\MultiplesIf.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\MultiplesIf\MultiplesIf\obj\Debug\netcoreapp3.1\MultiplesIf.AssemblyInfoInputs.cache
+F:\Proyectos\MultiplesIf\MultiplesIf\obj\Debug\netcoreapp3.1\MultiplesIf.AssemblyInfo.cs
+F:\Proyectos\MultiplesIf\MultiplesIf\obj\Debug\netcoreapp3.1\MultiplesIf.csproj.CoreCompileInputs.cache
+F:\Proyectos\MultiplesIf\MultiplesIf\obj\Debug\netcoreapp3.1\MultiplesIf.dll
+F:\Proyectos\MultiplesIf\MultiplesIf\obj\Debug\netcoreapp3.1\MultiplesIf.pdb
+F:\Proyectos\MultiplesIf\MultiplesIf\obj\Debug\netcoreapp3.1\MultiplesIf.genruntimeconfig.cache
