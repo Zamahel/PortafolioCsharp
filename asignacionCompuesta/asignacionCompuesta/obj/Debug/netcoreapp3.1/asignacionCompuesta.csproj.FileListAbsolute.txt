@@ -1,0 +1,14 @@
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\obj\Debug\netcoreapp3.1\asignacionCompuesta.csproj.AssemblyReference.cache
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\obj\Debug\netcoreapp3.1\asignacionCompuesta.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\obj\Debug\netcoreapp3.1\asignacionCompuesta.AssemblyInfoInputs.cache
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\obj\Debug\netcoreapp3.1\asignacionCompuesta.AssemblyInfo.cs
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\obj\Debug\netcoreapp3.1\asignacionCompuesta.csproj.CoreCompileInputs.cache
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\bin\Debug\netcoreapp3.1\asignacionCompuesta.exe
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\bin\Debug\netcoreapp3.1\asignacionCompuesta.deps.json
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\bin\Debug\netcoreapp3.1\asignacionCompuesta.runtimeconfig.json
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\bin\Debug\netcoreapp3.1\asignacionCompuesta.runtimeconfig.dev.json
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\bin\Debug\netcoreapp3.1\asignacionCompuesta.dll
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\bin\Debug\netcoreapp3.1\asignacionCompuesta.pdb
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\obj\Debug\netcoreapp3.1\asignacionCompuesta.dll
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\obj\Debug\netcoreapp3.1\asignacionCompuesta.pdb
+F:\Proyectos\PortafolioCsharp\asignacionCompuesta\asignacionCompuesta\obj\Debug\netcoreapp3.1\asignacionCompuesta.genruntimeconfig.cache

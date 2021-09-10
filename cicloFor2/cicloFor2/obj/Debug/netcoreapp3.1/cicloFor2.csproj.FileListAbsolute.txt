@@ -1,0 +1,14 @@
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\bin\Debug\netcoreapp3.1\cicloFor2.exe
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\bin\Debug\netcoreapp3.1\cicloFor2.deps.json
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\bin\Debug\netcoreapp3.1\cicloFor2.runtimeconfig.json
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\bin\Debug\netcoreapp3.1\cicloFor2.runtimeconfig.dev.json
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\bin\Debug\netcoreapp3.1\cicloFor2.dll
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\bin\Debug\netcoreapp3.1\cicloFor2.pdb
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\obj\Debug\netcoreapp3.1\cicloFor2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\obj\Debug\netcoreapp3.1\cicloFor2.AssemblyInfoInputs.cache
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\obj\Debug\netcoreapp3.1\cicloFor2.AssemblyInfo.cs
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\obj\Debug\netcoreapp3.1\cicloFor2.csproj.CoreCompileInputs.cache
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\obj\Debug\netcoreapp3.1\cicloFor2.dll
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\obj\Debug\netcoreapp3.1\cicloFor2.pdb
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\obj\Debug\netcoreapp3.1\cicloFor2.genruntimeconfig.cache
+F:\Proyectos\PortafolioCsharp\cicloFor2\cicloFor2\obj\Debug\netcoreapp3.1\cicloFor2.csproj.AssemblyReference.cache

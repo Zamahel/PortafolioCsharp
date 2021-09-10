@@ -1,0 +1,13 @@
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\bin\Debug\netcoreapp3.1\cicloIteracionFor.exe
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\bin\Debug\netcoreapp3.1\cicloIteracionFor.deps.json
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\bin\Debug\netcoreapp3.1\cicloIteracionFor.runtimeconfig.json
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\bin\Debug\netcoreapp3.1\cicloIteracionFor.runtimeconfig.dev.json
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\bin\Debug\netcoreapp3.1\cicloIteracionFor.dll
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\bin\Debug\netcoreapp3.1\cicloIteracionFor.pdb
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\obj\Debug\netcoreapp3.1\cicloIteracionFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\obj\Debug\netcoreapp3.1\cicloIteracionFor.AssemblyInfoInputs.cache
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\obj\Debug\netcoreapp3.1\cicloIteracionFor.AssemblyInfo.cs
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\obj\Debug\netcoreapp3.1\cicloIteracionFor.csproj.CoreCompileInputs.cache
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\obj\Debug\netcoreapp3.1\cicloIteracionFor.dll
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\obj\Debug\netcoreapp3.1\cicloIteracionFor.pdb
+C:\Users\final\source\repos\cicloIteracionFor\cicloIteracionFor\obj\Debug\netcoreapp3.1\cicloIteracionFor.genruntimeconfig.cache
