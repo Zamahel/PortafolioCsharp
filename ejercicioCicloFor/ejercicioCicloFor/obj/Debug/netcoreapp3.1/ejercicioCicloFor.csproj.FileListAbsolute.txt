@@ -1,0 +1,14 @@
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\bin\Debug\netcoreapp3.1\ejercicioCicloFor.exe
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\bin\Debug\netcoreapp3.1\ejercicioCicloFor.deps.json
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\bin\Debug\netcoreapp3.1\ejercicioCicloFor.runtimeconfig.json
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\bin\Debug\netcoreapp3.1\ejercicioCicloFor.runtimeconfig.dev.json
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\bin\Debug\netcoreapp3.1\ejercicioCicloFor.dll
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\bin\Debug\netcoreapp3.1\ejercicioCicloFor.pdb
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\obj\Debug\netcoreapp3.1\ejercicioCicloFor.csproj.AssemblyReference.cache
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\obj\Debug\netcoreapp3.1\ejercicioCicloFor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\obj\Debug\netcoreapp3.1\ejercicioCicloFor.AssemblyInfoInputs.cache
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\obj\Debug\netcoreapp3.1\ejercicioCicloFor.AssemblyInfo.cs
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\obj\Debug\netcoreapp3.1\ejercicioCicloFor.csproj.CoreCompileInputs.cache
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\obj\Debug\netcoreapp3.1\ejercicioCicloFor.dll
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\obj\Debug\netcoreapp3.1\ejercicioCicloFor.pdb
+F:\Proyectos\PortafolioCsharp\ejercicioCicloFor\ejercicioCicloFor\obj\Debug\netcoreapp3.1\ejercicioCicloFor.genruntimeconfig.cache
