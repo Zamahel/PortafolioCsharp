@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Proyectos\\ifAnidadosCase\\ifAnidadosCase\\ifAnidadosCase.csproj",
+      "projectUniqueName": "F:\\PortafolioCsharp\\ifAnidadosCase\\ifAnidadosCase\\ifAnidadosCase.csproj",
       "projectName": "ifAnidadosCase",
-      "projectPath": "F:\\Proyectos\\ifAnidadosCase\\ifAnidadosCase\\ifAnidadosCase.csproj",
+      "projectPath": "F:\\PortafolioCsharp\\ifAnidadosCase\\ifAnidadosCase\\ifAnidadosCase.csproj",
       "packagesPath": "C:\\Users\\final\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyectos\\ifAnidadosCase\\ifAnidadosCase\\obj\\",
+      "outputPath": "F:\\PortafolioCsharp\\ifAnidadosCase\\ifAnidadosCase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

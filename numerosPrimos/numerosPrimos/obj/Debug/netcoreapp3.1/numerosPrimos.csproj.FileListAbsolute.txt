@@ -1,0 +1,13 @@
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\bin\Debug\netcoreapp3.1\numerosPrimos.exe
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\bin\Debug\netcoreapp3.1\numerosPrimos.deps.json
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\bin\Debug\netcoreapp3.1\numerosPrimos.runtimeconfig.json
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\bin\Debug\netcoreapp3.1\numerosPrimos.runtimeconfig.dev.json
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\bin\Debug\netcoreapp3.1\numerosPrimos.dll
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\bin\Debug\netcoreapp3.1\numerosPrimos.pdb
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\obj\Debug\netcoreapp3.1\numerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\obj\Debug\netcoreapp3.1\numerosPrimos.AssemblyInfoInputs.cache
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\obj\Debug\netcoreapp3.1\numerosPrimos.AssemblyInfo.cs
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\obj\Debug\netcoreapp3.1\numerosPrimos.csproj.CoreCompileInputs.cache
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\obj\Debug\netcoreapp3.1\numerosPrimos.dll
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\obj\Debug\netcoreapp3.1\numerosPrimos.pdb
+F:\PortafolioCsharp\numerosPrimos\numerosPrimos\obj\Debug\netcoreapp3.1\numerosPrimos.genruntimeconfig.cache

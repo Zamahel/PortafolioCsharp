@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Proyectos\\PortafolioCsharp\\segundoEjercicioCicloFor\\segundoEjercicioCicloFor\\segundoEjercicioCicloFor.csproj",
+      "projectUniqueName": "F:\\PortafolioCsharp\\segundoEjercicioCicloFor\\segundoEjercicioCicloFor\\segundoEjercicioCicloFor.csproj",
       "projectName": "segundoEjercicioCicloFor",
-      "projectPath": "F:\\Proyectos\\PortafolioCsharp\\segundoEjercicioCicloFor\\segundoEjercicioCicloFor\\segundoEjercicioCicloFor.csproj",
+      "projectPath": "F:\\PortafolioCsharp\\segundoEjercicioCicloFor\\segundoEjercicioCicloFor\\segundoEjercicioCicloFor.csproj",
       "packagesPath": "C:\\Users\\final\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyectos\\PortafolioCsharp\\segundoEjercicioCicloFor\\segundoEjercicioCicloFor\\obj\\",
+      "outputPath": "F:\\PortafolioCsharp\\segundoEjercicioCicloFor\\segundoEjercicioCicloFor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

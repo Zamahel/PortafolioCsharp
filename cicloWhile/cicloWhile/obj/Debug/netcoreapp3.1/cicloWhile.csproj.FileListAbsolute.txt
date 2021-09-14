@@ -1,0 +1,14 @@
+C:\Users\final\source\repos\cicloWhile\cicloWhile\bin\Debug\netcoreapp3.1\cicloWhile.exe
+C:\Users\final\source\repos\cicloWhile\cicloWhile\bin\Debug\netcoreapp3.1\cicloWhile.deps.json
+C:\Users\final\source\repos\cicloWhile\cicloWhile\bin\Debug\netcoreapp3.1\cicloWhile.runtimeconfig.json
+C:\Users\final\source\repos\cicloWhile\cicloWhile\bin\Debug\netcoreapp3.1\cicloWhile.runtimeconfig.dev.json
+C:\Users\final\source\repos\cicloWhile\cicloWhile\bin\Debug\netcoreapp3.1\cicloWhile.dll
+C:\Users\final\source\repos\cicloWhile\cicloWhile\bin\Debug\netcoreapp3.1\cicloWhile.pdb
+C:\Users\final\source\repos\cicloWhile\cicloWhile\obj\Debug\netcoreapp3.1\cicloWhile.csproj.AssemblyReference.cache
+C:\Users\final\source\repos\cicloWhile\cicloWhile\obj\Debug\netcoreapp3.1\cicloWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\final\source\repos\cicloWhile\cicloWhile\obj\Debug\netcoreapp3.1\cicloWhile.AssemblyInfoInputs.cache
+C:\Users\final\source\repos\cicloWhile\cicloWhile\obj\Debug\netcoreapp3.1\cicloWhile.AssemblyInfo.cs
+C:\Users\final\source\repos\cicloWhile\cicloWhile\obj\Debug\netcoreapp3.1\cicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\final\source\repos\cicloWhile\cicloWhile\obj\Debug\netcoreapp3.1\cicloWhile.dll
+C:\Users\final\source\repos\cicloWhile\cicloWhile\obj\Debug\netcoreapp3.1\cicloWhile.pdb
+C:\Users\final\source\repos\cicloWhile\cicloWhile\obj\Debug\netcoreapp3.1\cicloWhile.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\bin\Debug\netcoreapp3.1\potenciasNumeros.exe
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\bin\Debug\netcoreapp3.1\potenciasNumeros.deps.json
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\bin\Debug\netcoreapp3.1\potenciasNumeros.runtimeconfig.json
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\bin\Debug\netcoreapp3.1\potenciasNumeros.runtimeconfig.dev.json
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\bin\Debug\netcoreapp3.1\potenciasNumeros.dll
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\bin\Debug\netcoreapp3.1\potenciasNumeros.pdb
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\obj\Debug\netcoreapp3.1\potenciasNumeros.GeneratedMSBuildEditorConfig.editorconfig
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\obj\Debug\netcoreapp3.1\potenciasNumeros.AssemblyInfoInputs.cache
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\obj\Debug\netcoreapp3.1\potenciasNumeros.AssemblyInfo.cs
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\obj\Debug\netcoreapp3.1\potenciasNumeros.csproj.CoreCompileInputs.cache
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\obj\Debug\netcoreapp3.1\potenciasNumeros.dll
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\obj\Debug\netcoreapp3.1\potenciasNumeros.pdb
+F:\PortafolioCsharp\potenciasNumeros\potenciasNumeros\obj\Debug\netcoreapp3.1\potenciasNumeros.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\PortafolioCsharp\instruccionDo\instruccionDo\bin\Debug\netcoreapp3.1\instruccionDo.exe
+F:\PortafolioCsharp\instruccionDo\instruccionDo\bin\Debug\netcoreapp3.1\instruccionDo.deps.json
+F:\PortafolioCsharp\instruccionDo\instruccionDo\bin\Debug\netcoreapp3.1\instruccionDo.runtimeconfig.json
+F:\PortafolioCsharp\instruccionDo\instruccionDo\bin\Debug\netcoreapp3.1\instruccionDo.runtimeconfig.dev.json
+F:\PortafolioCsharp\instruccionDo\instruccionDo\bin\Debug\netcoreapp3.1\instruccionDo.dll
+F:\PortafolioCsharp\instruccionDo\instruccionDo\bin\Debug\netcoreapp3.1\instruccionDo.pdb
+F:\PortafolioCsharp\instruccionDo\instruccionDo\obj\Debug\netcoreapp3.1\instruccionDo.csproj.AssemblyReference.cache
+F:\PortafolioCsharp\instruccionDo\instruccionDo\obj\Debug\netcoreapp3.1\instruccionDo.GeneratedMSBuildEditorConfig.editorconfig
+F:\PortafolioCsharp\instruccionDo\instruccionDo\obj\Debug\netcoreapp3.1\instruccionDo.AssemblyInfoInputs.cache
+F:\PortafolioCsharp\instruccionDo\instruccionDo\obj\Debug\netcoreapp3.1\instruccionDo.AssemblyInfo.cs
+F:\PortafolioCsharp\instruccionDo\instruccionDo\obj\Debug\netcoreapp3.1\instruccionDo.csproj.CoreCompileInputs.cache
+F:\PortafolioCsharp\instruccionDo\instruccionDo\obj\Debug\netcoreapp3.1\instruccionDo.dll
+F:\PortafolioCsharp\instruccionDo\instruccionDo\obj\Debug\netcoreapp3.1\instruccionDo.pdb
+F:\PortafolioCsharp\instruccionDo\instruccionDo\obj\Debug\netcoreapp3.1\instruccionDo.genruntimeconfig.cache
