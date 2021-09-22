@@ -1,0 +1,16 @@
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\bin\Debug\net5.0\calculoDeRadioPerimetro.exe
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\bin\Debug\net5.0\calculoDeRadioPerimetro.deps.json
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\bin\Debug\net5.0\calculoDeRadioPerimetro.runtimeconfig.json
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\bin\Debug\net5.0\calculoDeRadioPerimetro.runtimeconfig.dev.json
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\bin\Debug\net5.0\calculoDeRadioPerimetro.dll
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\bin\Debug\net5.0\ref\calculoDeRadioPerimetro.dll
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\bin\Debug\net5.0\calculoDeRadioPerimetro.pdb
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\obj\Debug\net5.0\calculoDeRadioPerimetro.csproj.AssemblyReference.cache
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\obj\Debug\net5.0\calculoDeRadioPerimetro.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\obj\Debug\net5.0\calculoDeRadioPerimetro.AssemblyInfoInputs.cache
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\obj\Debug\net5.0\calculoDeRadioPerimetro.AssemblyInfo.cs
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\obj\Debug\net5.0\calculoDeRadioPerimetro.csproj.CoreCompileInputs.cache
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\obj\Debug\net5.0\calculoDeRadioPerimetro.dll
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\obj\Debug\net5.0\ref\calculoDeRadioPerimetro.dll
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\obj\Debug\net5.0\calculoDeRadioPerimetro.pdb
+Z:\PortafolioCsharp\calculoDeRadioPerimetro\calculoDeRadioPerimetro\obj\Debug\net5.0\calculoDeRadioPerimetro.genruntimeconfig.cache

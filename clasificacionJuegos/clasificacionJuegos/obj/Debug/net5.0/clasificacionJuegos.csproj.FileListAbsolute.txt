@@ -1,0 +1,16 @@
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\bin\Debug\net5.0\clasificacionJuegos.exe
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\bin\Debug\net5.0\clasificacionJuegos.deps.json
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\bin\Debug\net5.0\clasificacionJuegos.runtimeconfig.json
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\bin\Debug\net5.0\clasificacionJuegos.runtimeconfig.dev.json
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\bin\Debug\net5.0\clasificacionJuegos.dll
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\bin\Debug\net5.0\ref\clasificacionJuegos.dll
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\bin\Debug\net5.0\clasificacionJuegos.pdb
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\obj\Debug\net5.0\clasificacionJuegos.csproj.AssemblyReference.cache
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\obj\Debug\net5.0\clasificacionJuegos.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\obj\Debug\net5.0\clasificacionJuegos.AssemblyInfoInputs.cache
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\obj\Debug\net5.0\clasificacionJuegos.AssemblyInfo.cs
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\obj\Debug\net5.0\clasificacionJuegos.csproj.CoreCompileInputs.cache
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\obj\Debug\net5.0\clasificacionJuegos.dll
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\obj\Debug\net5.0\ref\clasificacionJuegos.dll
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\obj\Debug\net5.0\clasificacionJuegos.pdb
+Z:\PortafolioCsharp\clasificacionJuegos\clasificacionJuegos\obj\Debug\net5.0\clasificacionJuegos.genruntimeconfig.cache
