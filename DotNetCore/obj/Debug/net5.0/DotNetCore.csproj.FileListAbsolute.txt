@@ -1,0 +1,16 @@
+G:\PortafolioCsharp\DotNetCore\bin\Debug\net5.0\DotNetCore.exe
+G:\PortafolioCsharp\DotNetCore\bin\Debug\net5.0\DotNetCore.deps.json
+G:\PortafolioCsharp\DotNetCore\bin\Debug\net5.0\DotNetCore.runtimeconfig.json
+G:\PortafolioCsharp\DotNetCore\bin\Debug\net5.0\DotNetCore.runtimeconfig.dev.json
+G:\PortafolioCsharp\DotNetCore\bin\Debug\net5.0\DotNetCore.dll
+G:\PortafolioCsharp\DotNetCore\bin\Debug\net5.0\ref\DotNetCore.dll
+G:\PortafolioCsharp\DotNetCore\bin\Debug\net5.0\DotNetCore.pdb
+G:\PortafolioCsharp\DotNetCore\obj\Debug\net5.0\DotNetCore.csproj.AssemblyReference.cache
+G:\PortafolioCsharp\DotNetCore\obj\Debug\net5.0\DotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+G:\PortafolioCsharp\DotNetCore\obj\Debug\net5.0\DotNetCore.AssemblyInfoInputs.cache
+G:\PortafolioCsharp\DotNetCore\obj\Debug\net5.0\DotNetCore.AssemblyInfo.cs
+G:\PortafolioCsharp\DotNetCore\obj\Debug\net5.0\DotNetCore.csproj.CoreCompileInputs.cache
+G:\PortafolioCsharp\DotNetCore\obj\Debug\net5.0\DotNetCore.dll
+G:\PortafolioCsharp\DotNetCore\obj\Debug\net5.0\ref\DotNetCore.dll
+G:\PortafolioCsharp\DotNetCore\obj\Debug\net5.0\DotNetCore.pdb
+G:\PortafolioCsharp\DotNetCore\obj\Debug\net5.0\DotNetCore.genruntimeconfig.cache

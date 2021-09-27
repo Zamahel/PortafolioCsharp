@@ -1,0 +1,16 @@
+G:\PortafolioCsharp\ejemplo2DotNetVSC\bin\Debug\net5.0\ejemplo2DotNetVSC.exe
+G:\PortafolioCsharp\ejemplo2DotNetVSC\bin\Debug\net5.0\ejemplo2DotNetVSC.deps.json
+G:\PortafolioCsharp\ejemplo2DotNetVSC\bin\Debug\net5.0\ejemplo2DotNetVSC.runtimeconfig.json
+G:\PortafolioCsharp\ejemplo2DotNetVSC\bin\Debug\net5.0\ejemplo2DotNetVSC.runtimeconfig.dev.json
+G:\PortafolioCsharp\ejemplo2DotNetVSC\bin\Debug\net5.0\ejemplo2DotNetVSC.dll
+G:\PortafolioCsharp\ejemplo2DotNetVSC\bin\Debug\net5.0\ref\ejemplo2DotNetVSC.dll
+G:\PortafolioCsharp\ejemplo2DotNetVSC\bin\Debug\net5.0\ejemplo2DotNetVSC.pdb
+G:\PortafolioCsharp\ejemplo2DotNetVSC\obj\Debug\net5.0\ejemplo2DotNetVSC.csproj.AssemblyReference.cache
+G:\PortafolioCsharp\ejemplo2DotNetVSC\obj\Debug\net5.0\ejemplo2DotNetVSC.GeneratedMSBuildEditorConfig.editorconfig
+G:\PortafolioCsharp\ejemplo2DotNetVSC\obj\Debug\net5.0\ejemplo2DotNetVSC.AssemblyInfoInputs.cache
+G:\PortafolioCsharp\ejemplo2DotNetVSC\obj\Debug\net5.0\ejemplo2DotNetVSC.AssemblyInfo.cs
+G:\PortafolioCsharp\ejemplo2DotNetVSC\obj\Debug\net5.0\ejemplo2DotNetVSC.csproj.CoreCompileInputs.cache
+G:\PortafolioCsharp\ejemplo2DotNetVSC\obj\Debug\net5.0\ejemplo2DotNetVSC.dll
+G:\PortafolioCsharp\ejemplo2DotNetVSC\obj\Debug\net5.0\ref\ejemplo2DotNetVSC.dll
+G:\PortafolioCsharp\ejemplo2DotNetVSC\obj\Debug\net5.0\ejemplo2DotNetVSC.pdb
+G:\PortafolioCsharp\ejemplo2DotNetVSC\obj\Debug\net5.0\ejemplo2DotNetVSC.genruntimeconfig.cache
