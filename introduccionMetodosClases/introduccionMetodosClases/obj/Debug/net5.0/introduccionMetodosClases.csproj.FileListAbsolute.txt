@@ -1,0 +1,16 @@
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\bin\Debug\net5.0\introduccionMetodosClases.exe
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\bin\Debug\net5.0\introduccionMetodosClases.deps.json
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\bin\Debug\net5.0\introduccionMetodosClases.runtimeconfig.json
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\bin\Debug\net5.0\introduccionMetodosClases.runtimeconfig.dev.json
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\bin\Debug\net5.0\introduccionMetodosClases.dll
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\bin\Debug\net5.0\ref\introduccionMetodosClases.dll
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\bin\Debug\net5.0\introduccionMetodosClases.pdb
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\obj\Debug\net5.0\introduccionMetodosClases.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\obj\Debug\net5.0\introduccionMetodosClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\obj\Debug\net5.0\introduccionMetodosClases.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\obj\Debug\net5.0\introduccionMetodosClases.AssemblyInfo.cs
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\obj\Debug\net5.0\introduccionMetodosClases.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\obj\Debug\net5.0\introduccionMetodosClases.dll
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\obj\Debug\net5.0\ref\introduccionMetodosClases.dll
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\obj\Debug\net5.0\introduccionMetodosClases.pdb
+D:\Documentos\GitHub\PortafolioCsharp\introduccionMetodosClases\introduccionMetodosClases\obj\Debug\net5.0\introduccionMetodosClases.genruntimeconfig.cache

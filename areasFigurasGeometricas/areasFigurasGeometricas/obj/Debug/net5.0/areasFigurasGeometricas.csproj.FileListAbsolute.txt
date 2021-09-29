@@ -1,0 +1,16 @@
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\bin\Debug\net5.0\areasFigurasGeometricas.exe
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\bin\Debug\net5.0\areasFigurasGeometricas.deps.json
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\bin\Debug\net5.0\areasFigurasGeometricas.runtimeconfig.json
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\bin\Debug\net5.0\areasFigurasGeometricas.runtimeconfig.dev.json
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\bin\Debug\net5.0\areasFigurasGeometricas.dll
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\bin\Debug\net5.0\ref\areasFigurasGeometricas.dll
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\bin\Debug\net5.0\areasFigurasGeometricas.pdb
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\obj\Debug\net5.0\areasFigurasGeometricas.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\obj\Debug\net5.0\areasFigurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\obj\Debug\net5.0\areasFigurasGeometricas.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\obj\Debug\net5.0\areasFigurasGeometricas.AssemblyInfo.cs
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\obj\Debug\net5.0\areasFigurasGeometricas.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\obj\Debug\net5.0\areasFigurasGeometricas.dll
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\obj\Debug\net5.0\ref\areasFigurasGeometricas.dll
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\obj\Debug\net5.0\areasFigurasGeometricas.pdb
+D:\Documentos\GitHub\PortafolioCsharp\areasFigurasGeometricas\areasFigurasGeometricas\obj\Debug\net5.0\areasFigurasGeometricas.genruntimeconfig.cache
