@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\GitHub\\PortafolioCsharp\\introduccionMetodosClases\\introduccionMetodosClases\\introduccionMetodosClases.csproj": {}
+    "D:\\Documentos\\GitHub\\PortafolioCsharp\\conversionKmAMillas\\conversionKmAMillas\\conversionKmAMillas.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\GitHub\\PortafolioCsharp\\introduccionMetodosClases\\introduccionMetodosClases\\introduccionMetodosClases.csproj": {
+    "D:\\Documentos\\GitHub\\PortafolioCsharp\\conversionKmAMillas\\conversionKmAMillas\\conversionKmAMillas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\GitHub\\PortafolioCsharp\\introduccionMetodosClases\\introduccionMetodosClases\\introduccionMetodosClases.csproj",
-        "projectName": "introduccionMetodosClases",
-        "projectPath": "D:\\Documentos\\GitHub\\PortafolioCsharp\\introduccionMetodosClases\\introduccionMetodosClases\\introduccionMetodosClases.csproj",
+        "projectUniqueName": "D:\\Documentos\\GitHub\\PortafolioCsharp\\conversionKmAMillas\\conversionKmAMillas\\conversionKmAMillas.csproj",
+        "projectName": "conversionKmAMillas",
+        "projectPath": "D:\\Documentos\\GitHub\\PortafolioCsharp\\conversionKmAMillas\\conversionKmAMillas\\conversionKmAMillas.csproj",
         "packagesPath": "C:\\Users\\final\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\GitHub\\PortafolioCsharp\\introduccionMetodosClases\\introduccionMetodosClases\\obj\\",
+        "outputPath": "D:\\Documentos\\GitHub\\PortafolioCsharp\\conversionKmAMillas\\conversionKmAMillas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

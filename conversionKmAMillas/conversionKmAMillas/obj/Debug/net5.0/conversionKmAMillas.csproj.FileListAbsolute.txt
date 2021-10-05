@@ -1,0 +1,16 @@
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\bin\Debug\net5.0\conversionKmAMillas.exe
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\bin\Debug\net5.0\conversionKmAMillas.deps.json
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\bin\Debug\net5.0\conversionKmAMillas.runtimeconfig.json
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\bin\Debug\net5.0\conversionKmAMillas.runtimeconfig.dev.json
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\bin\Debug\net5.0\conversionKmAMillas.dll
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\bin\Debug\net5.0\ref\conversionKmAMillas.dll
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\bin\Debug\net5.0\conversionKmAMillas.pdb
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\obj\Debug\net5.0\conversionKmAMillas.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\obj\Debug\net5.0\conversionKmAMillas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\obj\Debug\net5.0\conversionKmAMillas.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\obj\Debug\net5.0\conversionKmAMillas.AssemblyInfo.cs
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\obj\Debug\net5.0\conversionKmAMillas.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\obj\Debug\net5.0\conversionKmAMillas.dll
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\obj\Debug\net5.0\ref\conversionKmAMillas.dll
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\obj\Debug\net5.0\conversionKmAMillas.pdb
+D:\Documentos\GitHub\PortafolioCsharp\conversionKmAMillas\conversionKmAMillas\obj\Debug\net5.0\conversionKmAMillas.genruntimeconfig.cache
