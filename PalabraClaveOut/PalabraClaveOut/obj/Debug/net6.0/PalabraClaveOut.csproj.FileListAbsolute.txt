@@ -1,0 +1,15 @@
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\bin\Debug\net6.0\PalabraClaveOut.exe
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\bin\Debug\net6.0\PalabraClaveOut.deps.json
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\bin\Debug\net6.0\PalabraClaveOut.runtimeconfig.json
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\bin\Debug\net6.0\PalabraClaveOut.dll
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\bin\Debug\net6.0\PalabraClaveOut.pdb
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\obj\Debug\net6.0\PalabraClaveOut.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\obj\Debug\net6.0\PalabraClaveOut.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\obj\Debug\net6.0\PalabraClaveOut.AssemblyInfoInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\obj\Debug\net6.0\PalabraClaveOut.AssemblyInfo.cs
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\obj\Debug\net6.0\PalabraClaveOut.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\obj\Debug\net6.0\PalabraClaveOut.dll
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\obj\Debug\net6.0\refint\PalabraClaveOut.dll
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\obj\Debug\net6.0\PalabraClaveOut.pdb
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\obj\Debug\net6.0\PalabraClaveOut.genruntimeconfig.cache
+E:\Documentos\GitHub\PortafolioCsharp\PalabraClaveOut\PalabraClaveOut\obj\Debug\net6.0\ref\PalabraClaveOut.dll
