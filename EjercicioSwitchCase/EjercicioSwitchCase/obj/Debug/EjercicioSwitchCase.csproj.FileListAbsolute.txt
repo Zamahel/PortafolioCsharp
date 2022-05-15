@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\EjercicioSwitchCase\EjercicioSwitchCase\bin\Debug\EjercicioSwitchCase.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\EjercicioSwitchCase\EjercicioSwitchCase\bin\Debug\EjercicioSwitchCase.exe
+E:\Documentos\GitHub\PortafolioCsharp\EjercicioSwitchCase\EjercicioSwitchCase\bin\Debug\EjercicioSwitchCase.pdb
+E:\Documentos\GitHub\PortafolioCsharp\EjercicioSwitchCase\EjercicioSwitchCase\obj\Debug\EjercicioSwitchCase.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\EjercicioSwitchCase\EjercicioSwitchCase\obj\Debug\EjercicioSwitchCase.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\EjercicioSwitchCase\EjercicioSwitchCase\obj\Debug\EjercicioSwitchCase.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\EjercicioSwitchCase\EjercicioSwitchCase\obj\Debug\EjercicioSwitchCase.exe
+E:\Documentos\GitHub\PortafolioCsharp\EjercicioSwitchCase\EjercicioSwitchCase\obj\Debug\EjercicioSwitchCase.pdb
