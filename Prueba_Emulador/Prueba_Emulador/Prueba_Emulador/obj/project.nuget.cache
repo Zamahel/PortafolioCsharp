@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LEgoZ6lwcyJoZ6++x5a1hNr4owxW2IH/DGPNSEA3rFNvhing40TigtAs8f3TxNJg+7zwxWoxEk3KuePNE6mssw==",
+  "success": true,
+  "projectFilePath": "E:\\Documentos\\GitHub\\PortafolioCsharp\\Prueba_Emulador\\Prueba_Emulador\\Prueba_Emulador\\Prueba_Emulador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\final\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\final\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\final\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\final\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\final\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

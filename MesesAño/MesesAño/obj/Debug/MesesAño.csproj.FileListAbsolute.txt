@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\MesesAño\MesesAño\bin\Debug\MesesAño.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\MesesAño\MesesAño\bin\Debug\MesesAño.exe
+E:\Documentos\GitHub\PortafolioCsharp\MesesAño\MesesAño\bin\Debug\MesesAño.pdb
+E:\Documentos\GitHub\PortafolioCsharp\MesesAño\MesesAño\obj\Debug\MesesAño.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\MesesAño\MesesAño\obj\Debug\MesesAño.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\MesesAño\MesesAño\obj\Debug\MesesAño.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\MesesAño\MesesAño\obj\Debug\MesesAño.exe
+E:\Documentos\GitHub\PortafolioCsharp\MesesAño\MesesAño\obj\Debug\MesesAño.pdb

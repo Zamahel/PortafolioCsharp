@@ -1,0 +1,1 @@
+E:\Documentos\GitHub\PortafolioCsharp\Prueba_Emulador\Prueba_Emulador\Prueba_Emulador.UWP\Prueba_Emulador.UWP.csproj;x64

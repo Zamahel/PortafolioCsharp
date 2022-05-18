@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\NumeroParEImpar\NumeroParEImpar\bin\Debug\NumeroParEImpar.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\NumeroParEImpar\NumeroParEImpar\bin\Debug\NumeroParEImpar.exe
+E:\Documentos\GitHub\PortafolioCsharp\NumeroParEImpar\NumeroParEImpar\bin\Debug\NumeroParEImpar.pdb
+E:\Documentos\GitHub\PortafolioCsharp\NumeroParEImpar\NumeroParEImpar\obj\Debug\NumeroParEImpar.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\NumeroParEImpar\NumeroParEImpar\obj\Debug\NumeroParEImpar.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\NumeroParEImpar\NumeroParEImpar\obj\Debug\NumeroParEImpar.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\NumeroParEImpar\NumeroParEImpar\obj\Debug\NumeroParEImpar.exe
+E:\Documentos\GitHub\PortafolioCsharp\NumeroParEImpar\NumeroParEImpar\obj\Debug\NumeroParEImpar.pdb

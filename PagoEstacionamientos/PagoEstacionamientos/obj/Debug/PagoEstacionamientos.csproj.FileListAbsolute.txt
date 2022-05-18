@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\PagoEstacionamientos\PagoEstacionamientos\bin\Debug\PagoEstacionamientos.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\PagoEstacionamientos\PagoEstacionamientos\bin\Debug\PagoEstacionamientos.exe
+E:\Documentos\GitHub\PortafolioCsharp\PagoEstacionamientos\PagoEstacionamientos\bin\Debug\PagoEstacionamientos.pdb
+E:\Documentos\GitHub\PortafolioCsharp\PagoEstacionamientos\PagoEstacionamientos\obj\Debug\PagoEstacionamientos.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\PagoEstacionamientos\PagoEstacionamientos\obj\Debug\PagoEstacionamientos.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\PagoEstacionamientos\PagoEstacionamientos\obj\Debug\PagoEstacionamientos.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\PagoEstacionamientos\PagoEstacionamientos\obj\Debug\PagoEstacionamientos.exe
+E:\Documentos\GitHub\PortafolioCsharp\PagoEstacionamientos\PagoEstacionamientos\obj\Debug\PagoEstacionamientos.pdb
