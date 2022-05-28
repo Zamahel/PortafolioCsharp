@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\cicloForPromedioAlumno\cicloForPromedioAlumno\bin\Debug\cicloForPromedioAlumno.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\cicloForPromedioAlumno\cicloForPromedioAlumno\bin\Debug\cicloForPromedioAlumno.exe
+E:\Documentos\GitHub\PortafolioCsharp\cicloForPromedioAlumno\cicloForPromedioAlumno\bin\Debug\cicloForPromedioAlumno.pdb
+E:\Documentos\GitHub\PortafolioCsharp\cicloForPromedioAlumno\cicloForPromedioAlumno\obj\Debug\cicloForPromedioAlumno.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\cicloForPromedioAlumno\cicloForPromedioAlumno\obj\Debug\cicloForPromedioAlumno.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\cicloForPromedioAlumno\cicloForPromedioAlumno\obj\Debug\cicloForPromedioAlumno.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\cicloForPromedioAlumno\cicloForPromedioAlumno\obj\Debug\cicloForPromedioAlumno.exe
+E:\Documentos\GitHub\PortafolioCsharp\cicloForPromedioAlumno\cicloForPromedioAlumno\obj\Debug\cicloForPromedioAlumno.pdb

@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\iteradorFor\iteradorFor\obj\Debug\iteradorFor.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\iteradorFor\iteradorFor\obj\Debug\iteradorFor.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\iteradorFor\iteradorFor\obj\Debug\iteradorFor.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\iteradorFor\iteradorFor\bin\Debug\iteradorFor.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\iteradorFor\iteradorFor\bin\Debug\iteradorFor.exe
+E:\Documentos\GitHub\PortafolioCsharp\iteradorFor\iteradorFor\bin\Debug\iteradorFor.pdb
+E:\Documentos\GitHub\PortafolioCsharp\iteradorFor\iteradorFor\obj\Debug\iteradorFor.exe
+E:\Documentos\GitHub\PortafolioCsharp\iteradorFor\iteradorFor\obj\Debug\iteradorFor.pdb

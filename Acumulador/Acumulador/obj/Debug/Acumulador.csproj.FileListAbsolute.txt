@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\Acumulador\Acumulador\bin\Debug\Acumulador.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\Acumulador\Acumulador\bin\Debug\Acumulador.exe
+E:\Documentos\GitHub\PortafolioCsharp\Acumulador\Acumulador\bin\Debug\Acumulador.pdb
+E:\Documentos\GitHub\PortafolioCsharp\Acumulador\Acumulador\obj\Debug\Acumulador.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\Acumulador\Acumulador\obj\Debug\Acumulador.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\Acumulador\Acumulador\obj\Debug\Acumulador.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\Acumulador\Acumulador\obj\Debug\Acumulador.exe
+E:\Documentos\GitHub\PortafolioCsharp\Acumulador\Acumulador\obj\Debug\Acumulador.pdb
