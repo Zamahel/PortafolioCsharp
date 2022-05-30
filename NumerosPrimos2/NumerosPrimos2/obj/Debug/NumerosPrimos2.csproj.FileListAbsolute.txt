@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\NumerosPrimos2\NumerosPrimos2\bin\Debug\NumerosPrimos2.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\NumerosPrimos2\NumerosPrimos2\bin\Debug\NumerosPrimos2.exe
+E:\Documentos\GitHub\PortafolioCsharp\NumerosPrimos2\NumerosPrimos2\bin\Debug\NumerosPrimos2.pdb
+E:\Documentos\GitHub\PortafolioCsharp\NumerosPrimos2\NumerosPrimos2\obj\Debug\NumerosPrimos2.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\NumerosPrimos2\NumerosPrimos2\obj\Debug\NumerosPrimos2.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\NumerosPrimos2\NumerosPrimos2\obj\Debug\NumerosPrimos2.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\NumerosPrimos2\NumerosPrimos2\obj\Debug\NumerosPrimos2.exe
+E:\Documentos\GitHub\PortafolioCsharp\NumerosPrimos2\NumerosPrimos2\obj\Debug\NumerosPrimos2.pdb

@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\ejercicioConDo\ejercicioConDo\bin\Debug\ejercicioConDo.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\ejercicioConDo\ejercicioConDo\bin\Debug\ejercicioConDo.exe
+E:\Documentos\GitHub\PortafolioCsharp\ejercicioConDo\ejercicioConDo\bin\Debug\ejercicioConDo.pdb
+E:\Documentos\GitHub\PortafolioCsharp\ejercicioConDo\ejercicioConDo\obj\Debug\ejercicioConDo.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\ejercicioConDo\ejercicioConDo\obj\Debug\ejercicioConDo.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\ejercicioConDo\ejercicioConDo\obj\Debug\ejercicioConDo.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\ejercicioConDo\ejercicioConDo\obj\Debug\ejercicioConDo.exe
+E:\Documentos\GitHub\PortafolioCsharp\ejercicioConDo\ejercicioConDo\obj\Debug\ejercicioConDo.pdb

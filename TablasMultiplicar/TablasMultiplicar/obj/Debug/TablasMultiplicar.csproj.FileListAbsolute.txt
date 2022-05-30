@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\TablasMultiplicar\TablasMultiplicar\bin\Debug\TablasMultiplicar.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\TablasMultiplicar\TablasMultiplicar\bin\Debug\TablasMultiplicar.exe
+E:\Documentos\GitHub\PortafolioCsharp\TablasMultiplicar\TablasMultiplicar\bin\Debug\TablasMultiplicar.pdb
+E:\Documentos\GitHub\PortafolioCsharp\TablasMultiplicar\TablasMultiplicar\obj\Debug\TablasMultiplicar.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\TablasMultiplicar\TablasMultiplicar\obj\Debug\TablasMultiplicar.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\TablasMultiplicar\TablasMultiplicar\obj\Debug\TablasMultiplicar.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\TablasMultiplicar\TablasMultiplicar\obj\Debug\TablasMultiplicar.exe
+E:\Documentos\GitHub\PortafolioCsharp\TablasMultiplicar\TablasMultiplicar\obj\Debug\TablasMultiplicar.pdb

@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\cicloWhile2\cicloWhile2\bin\Debug\cicloWhile2.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\cicloWhile2\cicloWhile2\bin\Debug\cicloWhile2.exe
+E:\Documentos\GitHub\PortafolioCsharp\cicloWhile2\cicloWhile2\bin\Debug\cicloWhile2.pdb
+E:\Documentos\GitHub\PortafolioCsharp\cicloWhile2\cicloWhile2\obj\Debug\cicloWhile2.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\cicloWhile2\cicloWhile2\obj\Debug\cicloWhile2.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\cicloWhile2\cicloWhile2\obj\Debug\cicloWhile2.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\cicloWhile2\cicloWhile2\obj\Debug\cicloWhile2.exe
+E:\Documentos\GitHub\PortafolioCsharp\cicloWhile2\cicloWhile2\obj\Debug\cicloWhile2.pdb

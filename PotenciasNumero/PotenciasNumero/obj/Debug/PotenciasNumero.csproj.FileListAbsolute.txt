@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\PotenciasNumero\PotenciasNumero\bin\Debug\PotenciasNumero.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\PotenciasNumero\PotenciasNumero\bin\Debug\PotenciasNumero.exe
+E:\Documentos\GitHub\PortafolioCsharp\PotenciasNumero\PotenciasNumero\bin\Debug\PotenciasNumero.pdb
+E:\Documentos\GitHub\PortafolioCsharp\PotenciasNumero\PotenciasNumero\obj\Debug\PotenciasNumero.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\PotenciasNumero\PotenciasNumero\obj\Debug\PotenciasNumero.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\PotenciasNumero\PotenciasNumero\obj\Debug\PotenciasNumero.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\PotenciasNumero\PotenciasNumero\obj\Debug\PotenciasNumero.exe
+E:\Documentos\GitHub\PortafolioCsharp\PotenciasNumero\PotenciasNumero\obj\Debug\PotenciasNumero.pdb

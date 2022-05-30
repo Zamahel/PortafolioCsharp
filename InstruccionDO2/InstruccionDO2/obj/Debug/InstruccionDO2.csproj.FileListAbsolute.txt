@@ -1,0 +1,8 @@
+E:\Documentos\GitHub\PortafolioCsharp\InstruccionDO2\InstruccionDO2\bin\Debug\InstruccionDO2.exe.config
+E:\Documentos\GitHub\PortafolioCsharp\InstruccionDO2\InstruccionDO2\bin\Debug\InstruccionDO2.exe
+E:\Documentos\GitHub\PortafolioCsharp\InstruccionDO2\InstruccionDO2\bin\Debug\InstruccionDO2.pdb
+E:\Documentos\GitHub\PortafolioCsharp\InstruccionDO2\InstruccionDO2\obj\Debug\InstruccionDO2.csproj.AssemblyReference.cache
+E:\Documentos\GitHub\PortafolioCsharp\InstruccionDO2\InstruccionDO2\obj\Debug\InstruccionDO2.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\GitHub\PortafolioCsharp\InstruccionDO2\InstruccionDO2\obj\Debug\InstruccionDO2.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\PortafolioCsharp\InstruccionDO2\InstruccionDO2\obj\Debug\InstruccionDO2.exe
+E:\Documentos\GitHub\PortafolioCsharp\InstruccionDO2\InstruccionDO2\obj\Debug\InstruccionDO2.pdb
