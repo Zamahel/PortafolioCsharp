@@ -1,0 +1,8 @@
+W:\Documentos\GitHub\PortafolioCsharp\MetodosSinParametros\MetodosSinParametros\bin\Debug\MetodosSinParametros.exe.config
+W:\Documentos\GitHub\PortafolioCsharp\MetodosSinParametros\MetodosSinParametros\bin\Debug\MetodosSinParametros.exe
+W:\Documentos\GitHub\PortafolioCsharp\MetodosSinParametros\MetodosSinParametros\bin\Debug\MetodosSinParametros.pdb
+W:\Documentos\GitHub\PortafolioCsharp\MetodosSinParametros\MetodosSinParametros\obj\Debug\MetodosSinParametros.csproj.AssemblyReference.cache
+W:\Documentos\GitHub\PortafolioCsharp\MetodosSinParametros\MetodosSinParametros\obj\Debug\MetodosSinParametros.csproj.SuggestedBindingRedirects.cache
+W:\Documentos\GitHub\PortafolioCsharp\MetodosSinParametros\MetodosSinParametros\obj\Debug\MetodosSinParametros.csproj.CoreCompileInputs.cache
+W:\Documentos\GitHub\PortafolioCsharp\MetodosSinParametros\MetodosSinParametros\obj\Debug\MetodosSinParametros.exe
+W:\Documentos\GitHub\PortafolioCsharp\MetodosSinParametros\MetodosSinParametros\obj\Debug\MetodosSinParametros.pdb
